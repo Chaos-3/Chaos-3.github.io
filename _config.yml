@@ -1,0 +1,7 @@
+# 博客的标题
+title: 我的个人博客
+# 博客的描述
+description: 记录学习和生活的地方。
+
+# 关键步骤：在这里指定你想要的主题
+theme: jekyll-theme-minimal
